@@ -1,0 +1,9 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Sitemap: https://oneal.tech/sitemap.xml
+Sitemap: https://oneal.tech/baidusitemap.xml
