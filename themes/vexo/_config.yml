@@ -1,0 +1,46 @@
+author: oneal # 作者
+description: ONEAL.TECH
+keyword: hexo, vuejs
+favicon: 
+
+excerpt_link: Read more
+
+menu:
+ Home: /
+ Tags: /tags/
+ Archives: /archives/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: false
+
+# donate
+donate: false
+
+# qrcode
+qrcode: false
+
+# comment
+# you can set gitment or uyan
+
+# comment: gitment
+
+# gitment config
+# gitment_owner: hr1ycfl
+# gitment_repo: blog-gitment
+# gitment_oauth_id: 9186cfd8e823b9d3a07c
+# gitment_oauth_secret: 25a9ea75d0621869c99776c666359e1d7215ec93
+
+# uyan
+# if you want to use uyan as your blog comment, plz remove/comment out gitment config
+
+baidu_id: 
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
