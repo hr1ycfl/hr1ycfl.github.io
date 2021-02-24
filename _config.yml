@@ -98,5 +98,4 @@ deploy:
   # - type: baidu_url_submitter
   - type: git
     repo:
-      coding: git@git.coding.net:hr1ycfl/hr1ycfl.coding.me.git,master
-      github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,master
+      github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,gh-pages
