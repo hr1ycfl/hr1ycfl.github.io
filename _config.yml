@@ -96,5 +96,6 @@ baidusitemap:
 ## coding: git@git.coding.net:hr1ycfl/hr1ycfl.coding.me.git,master
 deploy:
   type: git
-  repo: https://github.com/hr1ycfl/hr1ycfl.github.io
+  repo: 
+    github: git@github.com:hr1ycfl/hr1ycfl.github.io.git
   branch: gh-pages
