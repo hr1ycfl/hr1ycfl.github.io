@@ -95,7 +95,6 @@ baidusitemap:
 ## github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,master
 ## coding: git@git.coding.net:hr1ycfl/hr1ycfl.coding.me.git,master
 deploy:
-  # - type: baidu_url_submitter
-  - type: git
-    repo:
-      github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,gh-pages
+  type: git
+  repo: https://github.com/hr1ycfl/hr1ycfl.github.io
+  branch: gh-pages
