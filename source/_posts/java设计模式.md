@@ -7,11 +7,6 @@ tags:
   - Java设计模式
 keywords: Java, 设计模式
 ---
-设计模式是解决问题的方案，学习现有的设计模式可以做到经验复用。
-
-拥有设计模式词汇，在沟通时就能用更少的词汇来讨论，并且不需要了解底层细节。
-<!--more-->
-
 > 作者：[CyC2018](https://github.com/CyC2018)
 > 原文链接: [设计模式](https://cyc2018.gitbooks.io/interview-notebook/content/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html)
 
