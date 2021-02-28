@@ -29,6 +29,7 @@ i18n_dir: :lang
 skip_render:
   - README.md
   - 404.html
+  - googledc389489e7c68a86.html
   - README.zhCN.md
 
 # Category & Tag
@@ -100,7 +101,10 @@ baidusitemap:
 #   repo: https://github.com/hr1ycfl/hr1ycfl.github.io
 #   branch: gh-pages
 deploy:
-  # - type: baidu_url_submitter
-  - type: git
-    repo:
-      github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,gh-pages
+  - type: baidu_url_submitter
+  # - type: git
+  #   repo:
+  #     github: git@github.com:hr1ycfl/hr1ycfl.github.io.git,gh-pages
+
+
+  #090c3e30a2864024b834d0bb32476cf6
