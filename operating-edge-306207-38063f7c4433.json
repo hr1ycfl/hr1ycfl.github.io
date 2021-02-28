@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "operating-edge-306207",
+  "private_key_id": "38063f7c4433ce468a2680f73ff67e595e9871d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDeyHi/PPI1XwzJ\nzl/fFs5mk4CNP0ZaFPep/f1ZL08+mTunoQSdJvOeZZDM2X/v8RuEYh/UuO0AyOoH\n7HCQ+OyVGjBu9+JTLOL1RbY4AJGsmWlvPAmfrMDcw2Uauw1o4FawepXmenrbNsBw\n/X3Lgn6pcn+S6qTvrz4teAhf6CqzmLTrssJ1XfVAFTESBetQ2WPzBDHTXHW5WC9c\nO/EFRFXocbFMMR6dS0AmMP6qc5AD+rpR1mv4NKzaDEMuEg6utB2/Vtd+1oX2R/+r\n7pLeUSc91MQ+5J35G87RdRVuSwFq4QrCZAZKblQAytyQ1LRn/SYP3U+1tQW80i/U\niR+bwunfAgMBAAECggEAF0DUfZ2GaHS12ICOeDIgtAs0UUnn9XIX0an9nif2fQGw\nfNQtL5wHtKJERWV0WZ6QcTZuvRzaPAk8iDwxGaipxPxZTtPXzzexrskqdlj024+d\ntisNlBmLfd91N5+LjEVSNxRsfgSNu0DRQFntHedOgjA9yZ9tPMlNU6CiOyR4BIu7\nfAqs+p73MqQTWWFFf3vp+4ovEJC6wL46P1Zr0QL7g/PAcjbhxHOEMzHEtxHc1vNR\nyIavGoTt8utHZiiUYDXnDCm105egfZcDOu5b9kWwN67MPXX+2MmP5ppNpqu7WDhG\nNamsfywE5iCXfPpF+ikGb/fMVMWJId/KATbh2sqcdQKBgQD5YSyt+VglsgeqbyVI\nV+tg+UtzcTNiw7rMghLO9Uz1l6GLOFfp2gEUHwbTKPzjkt8RXkqU3JEjeD96g6EJ\n4KH+WoYSz7UfI4bjhmEDxYGleazTUuHrwqBfxNWndajXc4S+ou0PdUpzi5dWBWIH\nTCTZ4LCDqB0SvtHw3hWEHdRFQwKBgQDksor7V9Ef02O7nJ+F6/JkOVFbA1EMxEpc\naa0Q8X3qQ3rmefd7obp1INH27kpF8aw9TngwDr61MVO+AJLxRwPpFsH8dBh5DzaE\nK1TnHRcLJ7jxpFpoKJUeUbgGxmojrkkQYKl2Thgt2HNUVm1FJZzO6DqKDY+lBbaZ\nh2/hj+pxNQKBgQC0bgt+oG6Xb3S+aoZGDl6eHiDqGJg+ODFaMC5dkPuqoZfe+9gX\nuYSYQ06Tzw8RtL0yes9pXyCf0ivTf5Mva1ipiGODDscUDYdV7W8Z5HfF+wABMfGF\nu55/TBHthGKx58G+kHEGgy1n5jKLqX9gmkX7Yec0ipjmbCvHo1db7J0dswKBgEmA\nVIi5TZ3j667VhLOfBHVPsqUEqNzojVmsIRJL+wL6kxpV4sNaVDnmxXSOW1KlfIzr\nllcjtgk4BEkRmChxgYE9bjU7/s2RpRzPbGcnA0vzhU4sW14UhPCMpQ+QX3Z+Qj9A\nQdai/MRnR5G4gT/y+bXKD15lQ2BvOKOZUsz02w1tAoGBANUg6AJPY8yeb2mBgfv7\nUke3SBhLKZD3vTnbObevWNRaebA6QXlc+gF/oJI7wCev17okJxCKrXHwD0iXrgCX\nuaYSAOu7dvGLSCjI7A6DiL6U7bi0hVL3pj4ZxEU8Ncp6tk4DBM0DWzxG9sshsQBk\nKUcTvRIFvO09squZNy0MGgXj\n-----END PRIVATE KEY-----\n",
+  "client_email": "oneal-tech@operating-edge-306207.iam.gserviceaccount.com",
+  "client_id": "111525491556347440011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/oneal-tech%40operating-edge-306207.iam.gserviceaccount.com"
+}
